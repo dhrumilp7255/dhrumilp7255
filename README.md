@@ -78,23 +78,13 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
 
 
 
-#### 📊 US Data Breaches Analysis  
-*Python | EDA | Visualization | Storytelling*
+#### 🔐 US Data Breaches Data Analysis  
+*Python | Pandas | Data Cleaning | Exploratory Analysis | Visualization*
 
-- Identified cross-industry breach trends  
-- Built interactive visual insights  
-- Delivered executive-ready findings  
-
-
-
-#### 🧠 SQL Migration & Report Validation  
-*Data Modeling | Query Optimization | Validation*
-
-- Rewrote legacy SQL logic  
-- Ensured output integrity across critical reports  
-- Improved schema alignment & maintainability  
-
-
+- Cleaned and structured multi-year U.S. data breach records to prepare analysis-ready datasets  
+- Performed exploratory data analysis to identify industry-wise breach frequency, attack types, and exposure scale  
+- Analyzed temporal trends to uncover patterns in breach growth and sector vulnerability  
+- Visualized key findings using Python libraries to highlight risk concentration across industries  
 
 <h2 align="center">💡 Fun Facts</h2>
 
