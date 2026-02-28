@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+ETL%2FELT+Pipelines+%7C+Cloud+Warehouses;Airflow+%7C+Spark+%7C+Kafka+%7C+BigQuery+%7C+Snowflake;Python+%7C+SQL+%7C+Data+Modeling+%7C+Analytics+Engineering;Building+reliable+pipelines+and+decision-ready+analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=ETL%2FELT+Workflows+%7C+Batch+Optimization+%7C+Reporting+Automation;Airflow+%7C+Spark+%7C+Kafka+%7C+BigQuery+%7C+Snowflake;Python+%7C+SQL+%7C+Data+Modeling+%7C+Analytics+Engineering;Building+reliable+pipelines+and+decision-ready+analytics" />
 </p>
 
 
