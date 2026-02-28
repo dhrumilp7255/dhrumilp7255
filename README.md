@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhrumil%20Patel&fontAlign=50&fontAlignY=40&desc=Data%20Engineer%20%7C%20MS%20@%20University%20of%20Florida&descAlign=50&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhrumil%20Patel&fontAlign=50&fontAlignY=40&desc=Data%20Engineer%20and%20Business%20Intelligence%20Professional%20%7C%20MS%20@%20University%20of%20Florida&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
