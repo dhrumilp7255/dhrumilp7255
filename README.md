@@ -20,17 +20,13 @@
 
 <h2 align="center">⚡ What I Do</h2>
 
-I design and build **scalable, production-ready data pipelines** that transform raw, fragmented data into clean, reliable, analytics-ready datasets.  
-
+I build and optimize data systems that power both operational workflows and executive decision-making. My work spans data engineering, analytics, and business intelligence.
 My work focuses on:
 
-- Architecting **ETL/ELT workflows** using Airflow and cloud-native tools  
-- Designing **warehouse-ready data models** in BigQuery and Snowflake  
-- Optimizing complex SQL transformations for performance and accuracy  
-- Automating ingestion, masking, validation, and reporting pipelines  
-- Delivering stakeholder-facing insights through Power BI and analytics dashboards  
-
-I care deeply about **data reliability, maintainability, and performance** — ensuring that pipelines are not just built, but built to scale.
+- Designing and optimizing ETL/ELT workflows and transformation pipelines across enterprise data environments  
+- Tuning complex PL/SQL procedures and restructuring SQL logic to improve batch performance and reporting efficiency   
+- Developing stakeholder-facing dashboards in Power BI and Tableau to translate technical metrics into business insights  
+- Performing root-cause and operational data analysis to identify inefficiencies and support strategic decisions    
 
 From enterprise banking systems to healthcare data environments, I’ve worked on improving reporting accuracy, reducing manual overhead, and strengthening data integrity across systems.
 
@@ -42,6 +38,7 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-111111?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 #### 🔁 Data Engineering
@@ -71,12 +68,13 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
 
 <h2 align="center">📌 Featured Projects</h2>
 
-#### 🚀 Data Pipeline Automation  
-*GCP Data Fusion + Airflow → BigQuery + Looker Studio*  
+#### 🏙 NYC Airbnb Market Intelligence Dashboard  
+*Tableau | Data Cleaning | Exploratory Analysis*
 
-- Automated ingestion & masking pipelines  
-- Built analytics-ready warehouse tables  
-- Reduced manual reporting overhead  
+- Cleaned and transformed raw NYC Airbnb listing data using Python and SQL  
+- Performed borough-level pricing, availability, and host performance analysis  
+- Built interactive Tableau dashboards to visualize revenue patterns, occupancy trends, and neighborhood demand  
+- Delivered business-focused insights to support pricing strategy and competitive positioning  
 
 
 
