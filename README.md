@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhrumil%20Patel&fontAlign=50&fontAlignY=40&desc=Data%20Engineer%20and%20Business%20Intelligence%20Professional%20%7C%20MS%20@%20University%20of%20Florida&descAlign=50&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dhrumil%20Patel&fontAlign=50&fontAlignY=40&desc=Data%20and%20AI%20Engineer%20%7C%20MS%20@%20University%20of%20Florida&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -10,25 +10,26 @@
   <a href="mailto:dhrumilpatel1989@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20out-00C2FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=ETL%2FELT+Workflows+%7C+Batch+Optimization+%7C+Reporting+Automation;Airflow+%7C+Spark+%7C+Kafka+%7C+BigQuery+%7C+Snowflake;Python+%7C+SQL+%7C+Data+Modeling+%7C+Analytics+Engineering;Building+reliable+pipelines+and+decision-ready+analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=Data+%26+AI+Engineer+%7C+LLMs+%7C+RAG+%7C+ML+Pipelines;Airflow+%7C+Spark+%7C+Kafka+%7C+LangChain+%7C+Vertex+AI;Python+%7C+SQL+%7C+Data+Modeling+%7C+MLOps+%7C+GenAI;Building+intelligent+systems+on+reliable+data+foundations" />
 </p>
 
 
 <h2 align="center">⚡ What I Do</h2>
 
-I build and optimize data systems that power both operational workflows and executive decision-making. My work spans data engineering, analytics, and business intelligence.
+I design and build end-to-end data and AI systems — from scalable pipelines and cloud data platforms to LLM-powered applications and ML model deployments. My work bridges robust data engineering with modern AI/ML to deliver production-grade, decision-ready systems.
+
 My work focuses on:
 
-- Designing and optimizing ETL/ELT workflows and transformation pipelines across enterprise data environments  
-- Tuning complex PL/SQL procedures and restructuring SQL logic to improve batch performance and reporting efficiency   
-- Developing stakeholder-facing dashboards in Power BI and Tableau to translate technical metrics into business insights  
-- Performing root-cause and operational data analysis to identify inefficiencies and support strategic decisions    
+- Building scalable ETL/ELT pipelines and real-time streaming architectures that feed both analytics and AI workloads  
+- Developing and deploying LLM-powered applications using RAG, prompt engineering, and multi-agent frameworks  
+- Engineering ML pipelines end-to-end: feature engineering, model training, evaluation, and MLOps deployment  
+- Designing cloud-native data platforms on GCP and AWS to support both BI reporting and AI model serving  
+- Translating complex data into stakeholder-facing dashboards and AI-driven insights that drive strategic decisions  
 
-From enterprise banking systems to healthcare data environments, I’ve worked on improving reporting accuracy, reducing manual overhead, and strengthening data integrity across systems.
+From enterprise banking systems to healthcare data environments, I build systems where clean data and intelligent AI meet.
 
 
 <h2 align="center">🧰 Tech Stack</h2>
@@ -41,6 +42,16 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
   <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-111111?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
+#### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge&logo=llama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-111111?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+
 #### 🔁 Data Engineering
 <p>
   <img src="https://img.shields.io/badge/Airflow-111111?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
@@ -49,11 +60,12 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
   <img src="https://img.shields.io/badge/dbt-111111?style=for-the-badge&logo=dbt&logoColor=white"/>
 </p>
 
-#### ☁ Warehousing & Cloud
+#### ☁ Cloud & Warehousing
 <p>
+  <img src="https://img.shields.io/badge/Vertex%20AI-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-111111?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
@@ -65,35 +77,14 @@ From enterprise banking systems to healthcare data environments, I’ve worked o
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
-<h2 align="center">📌 Featured Projects</h2>
-
-#### 🏙 NYC Airbnb Market Intelligence Dashboard  
-*Tableau | Data Cleaning | Exploratory Analysis*
-
-- Cleaned and transformed raw NYC Airbnb listing data using Python and SQL  
-- Performed borough-level pricing, availability, and host performance analysis  
-- Built interactive Tableau dashboards to visualize revenue patterns, occupancy trends, and neighborhood demand  
-- Delivered business-focused insights to support pricing strategy and competitive positioning  
-
-
-
-#### 🔐 US Data Breaches Data Analysis  
-*Python | Pandas | Data Cleaning | Exploratory Analysis | Visualization*
-
-- Cleaned and structured multi-year U.S. data breach records to prepare analysis-ready datasets  
-- Performed exploratory data analysis to identify industry-wise breach frequency, attack types, and exposure scale  
-- Analyzed temporal trends to uncover patterns in breach growth and sector vulnerability  
-- Visualized key findings using Python libraries to highlight risk concentration across industries  
-
 <h2 align="center">💡 Fun Facts</h2>
 
-- ☕ I enjoy turning messy data into clean, trusted datasets  
-- 🧠 Passionate about optimizing pipelines for speed & reliability  
-- 🧩 Constantly learning advanced orchestration & modeling patterns  
+- 🤖 I'm fascinated by where large language models meet production data infrastructure  
+- 🧠 Passionate about MLOps, vector databases, and real-time AI systems  
+- 🧩 Constantly exploring agent frameworks and the evolving GenAI ecosystem  
 
 
 
 <p align="center">
-  <sub>Built for Data Engineering roles • Production-grade pipelines • Cloud-native analytics</sub>
+  <sub>Data & AI Engineer • LLMs in Production • Cloud-Native Pipelines • ML Systems</sub>
 </p>
